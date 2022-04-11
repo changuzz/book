@@ -1,0 +1,13 @@
+
+fpython:S1192A"IDefine a constant instead of duplicating this literal "mul.html" 6 times.(Ü¢Ø´şÿÿÿÿ
+apython:S1192"IDefine a constant instead of duplicating this literal "add.html" 7 times.(ÜÌº‘
+fpython:S1192Z"IDefine a constant instead of duplicating this literal "div.html" 5 times.(õ”Ôƒÿÿÿÿÿ
+fpython:S1192'"IDefine a constant instead of duplicating this literal "sub.html" 6 times.(éÖú­ùÿÿÿÿ
+dpython:S1763"GDelete this unreachable code or refactor the code to make it reachable.(¢õÓ‹úÿÿÿÿ
+;python:S125"Remove this commented out code.(ºĞÄûşÿÿÿÿ
+dpython:S17631"GDelete this unreachable code or refactor the code to make it reachable.(Œ«ûïşÿÿÿÿ
+;python:S125)"Remove this commented out code.(ºĞÄûşÿÿÿÿ
+dpython:S1763K"GDelete this unreachable code or refactor the code to make it reachable.(“å‚Üûÿÿÿÿ
+;python:S125C"Remove this commented out code.(ºĞÄûşÿÿÿÿ
+_python:S1763d"GDelete this unreachable code or refactor the code to make it reachable.(ƒÛ¸
+;python:S125\"Remove this commented out code.(ºĞÄûşÿÿÿÿ
